@@ -36,7 +36,7 @@ const HeroSection = () => {
                         I am a software engineer with a strong foundation in building robust, scalable systems and applications. My expertise spans full-stack development, including frontend and backend technologies, with a focus on performance, scalability, and user experience. I am dedicated to writing clean, maintainable code and delivering high-quality software solutions that meet business needs and drive innovation.
                     </p> */}
                     <div>
-                        <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-teal-500 to-blue-600  text-white font-semibold'>Hire Me</button>
+                        <button onClick={() => alert("You've hired me! Great choice.")} className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-teal-500 to-blue-600  text-white font-semibold'>Hire Me</button>
                         <button
                             className="px-6 py-3 w-full sm:w-fit rounded-full bg-transparent hover:bg-slate-800 text-white border border-white mt-3 font-semibold"
                             onClick={() => {

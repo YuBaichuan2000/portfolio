@@ -45,7 +45,7 @@ const TAB_DATA = [
     },
 ]
 
-const AboutSection = () => {
+const AboutSection = ({id}) => {
 
     const [tab, setTab] = useState("skills");
     const [isPending, startTransition] = useTransition();
@@ -57,7 +57,7 @@ const AboutSection = () => {
     }
 
     return (
-        <section className='text-white'>
+        <section id={id} className='text-white'>
             <div className='md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16'>
                 <Image src="/images/workspace.png" alt='workspace' width={500} height={500} className="h-96 object-cover"/>
                 <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>

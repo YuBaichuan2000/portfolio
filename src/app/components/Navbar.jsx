@@ -3,7 +3,7 @@ import React, { useState }from 'react';
 import Navlink from './Navlink';
 import Link from 'next/link';
 import MenuOverlay from './MenuOverlay';
-import {Bars3Icon, XMarkIcon, XmarkIcon} from '@heroicons/react/24/solid'
+import {Bars3Icon, XMarkIcon} from '@heroicons/react/24/solid'
 
 const navLinks = [
     {
