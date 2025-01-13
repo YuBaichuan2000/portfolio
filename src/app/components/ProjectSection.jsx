@@ -8,56 +8,56 @@ const projectData = [
     {
         id: 1,
         title: "React Portfolio Website",
-        description: "Project 1 description",
+        description: "My portfolio website built using React and Tailwind CSS.",
         image: "/images/projects/1.png",
         tag: ["All", "Frontend"],
-        gitUrl: '/',
-        previewUrl: "/"
+        gitUrl: 'https://github.com/YuBaichuan2000/portfolio',
+        previewUrl: "https://github.com/YuBaichuan2000/portfolio"
     },
     {
         id: 2,
         title: "ChatGPT Clone",
-        description: "Project 2 description",
+        description: "Frontend project using React and ChatGPT API.",
         image: "/images/projects/2.png",
         tag: ["All", "Frontend"],
-        gitUrl: '/',
-        previewUrl: "/"
+        gitUrl: 'https://github.com/YuBaichuan2000/gpt-clone',
+        previewUrl: "https://github.com/YuBaichuan2000/gpt-clone"
     },
     {
         id: 3,
         title: "Service Booking Web Application",
-        description: "Project 3 description",
+        description: "Full stack project using React, Node.js, Express, and MySQL.",
         image: "/images/projects/3.png",
         tag: ["All", "Full Stack"],
-        gitUrl: '/',
-        previewUrl: "/"
+        gitUrl: 'https://github.com/YuBaichuan2000/SSEProject',
+        previewUrl: "https://github.com/YuBaichuan2000/SSEProject"
     },
     {
         id: 4,
         title: "Exercise Tracker",
-        description: "Project 4 description",
+        description: "Full stack project using React, Node.js, Express, and MongoDB.",
         image: "/images/projects/4.png",
         tag: ["All", "Full Stack"],
-        gitUrl: '/',
-        previewUrl: "/"
+        gitUrl: 'https://github.com/YuBaichuan2000/workout-tracker',
+        previewUrl: "https://github.com/YuBaichuan2000/workout-tracker"
     },
     {
         id: 5,
         title: "Cattle Disease Classifier",
-        description: "Project 5 description",
+        description: "Machine learning project using PyTorch and Image Classification.",
         image: "/images/projects/5.png",
         tag: ["All", "ML"],
-        gitUrl: '/',
-        previewUrl: "/"
+        gitUrl: 'https://github.com/YuBaichuan2000/cattle-disease-cv',
+        previewUrl: "https://github.com/YuBaichuan2000/cattle-disease-cv"
     },
     {
         id: 6,
-        title: "Tweet Sentiment Analyzer",
-        description: "Project 6 description",
+        title: "Merchant Ranking System",
+        description: "Machine learning project using PySpark and Big Data Analysis.",
         image: "/images/projects/6.png",
         tag: ["All", "ML"],
-        gitUrl: '/',
-        previewUrl: "/"
+        gitUrl: 'https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-27',
+        previewUrl: "https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-27"
     },
 
 ]
