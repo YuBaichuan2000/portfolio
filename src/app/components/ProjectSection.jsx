@@ -45,7 +45,7 @@ const projectData = [
         id: 5,
         title: "Cattle Disease Classifier",
         description: "Machine learning project using PyTorch and Image Classification.",
-        image: "/images/projects/5.png",
+        // image: "/images/projects/5.png",
         tag: ["All", "ML"],
         gitUrl: 'https://github.com/YuBaichuan2000/cattle-disease-cv',
         previewUrl: "https://github.com/YuBaichuan2000/cattle-disease-cv"
@@ -54,7 +54,7 @@ const projectData = [
         id: 6,
         title: "Merchant Ranking System",
         description: "Machine learning project using PySpark and Big Data Analysis.",
-        image: "/images/projects/6.png",
+        // image: "/images/projects/6.png",
         tag: ["All", "ML"],
         gitUrl: 'https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-27',
         previewUrl: "https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-27"
