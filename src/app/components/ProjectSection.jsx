@@ -30,7 +30,7 @@ const projectData = [
         image: "/images/projects/3.png",
         tag: ["All", "Full Stack"],
         gitUrl: 'https://github.com/YuBaichuan2000/SSEProject',
-        previewUrl: "https://github.com/YuBaichuan2000/SSEProject"
+        // previewUrl: "https://github.com/YuBaichuan2000/SSEProject"
     },
     {
         id: 4,
@@ -48,7 +48,7 @@ const projectData = [
         // image: "/images/projects/5.png",
         tag: ["All", "ML"],
         gitUrl: 'https://github.com/YuBaichuan2000/cattle-disease-cv',
-        previewUrl: "https://github.com/YuBaichuan2000/cattle-disease-cv"
+        // previewUrl: "https://github.com/YuBaichuan2000/cattle-disease-cv"
     },
     {
         id: 6,
@@ -57,7 +57,7 @@ const projectData = [
         // image: "/images/projects/6.png",
         tag: ["All", "ML"],
         gitUrl: 'https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-27',
-        previewUrl: "https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-27"
+        // previewUrl: "https://github.com/MAST30034-Applied-Data-Science/generic-buy-now-pay-later-project-group-27"
     },
 
 ]
