@@ -2,6 +2,8 @@
 import React, {useState} from "react";
 import GithubIcon from "../../../public/github.svg";
 import LinkedInIcon from "../../../public/linkedin.svg";
+import LeetcodeIcon from "../../../public/leetcode.svg";
+
 import Link from "next/link";
 import Image from "next/image";
 
@@ -48,6 +50,10 @@ const EmailSection = ({id}) => {
                     <Link href="https://www.linkedin.com/in/george-yu-a6800a227/" target="_blank">
                         <Image src={LinkedInIcon} alt="Linkedin Icon" height={50} width={50}></Image>
                     </Link>
+                    <Link href="https://leetcode.com/u/YuBaichuan/" target="_blank">
+                        <Image src={LeetcodeIcon} alt="Leetcode Icon" height={50} width={50}></Image>
+                    </Link>
+
                 </div>
             </div>
             {/* <div>

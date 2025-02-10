@@ -12,7 +12,7 @@ const projectData = [
         image: "/images/projects/1.png",
         tag: ["All", "Frontend"],
         gitUrl: 'https://github.com/YuBaichuan2000/portfolio',
-        previewUrl: "https://github.com/YuBaichuan2000/portfolio"
+        previewUrl: "https://portfolio-66fjgryj5-george-yus-projects-acb1f072.vercel.app/"
     },
     {
         id: 2,
@@ -21,7 +21,7 @@ const projectData = [
         image: "/images/projects/2.png",
         tag: ["All", "Frontend"],
         gitUrl: 'https://github.com/YuBaichuan2000/gpt-clone',
-        previewUrl: "https://github.com/YuBaichuan2000/gpt-clone"
+        previewUrl: "https://gpt-clone-e01d.onrender.com/"
     },
     {
         id: 3,
@@ -39,7 +39,7 @@ const projectData = [
         image: "/images/projects/4.png",
         tag: ["All", "Full Stack"],
         gitUrl: 'https://github.com/YuBaichuan2000/workout-tracker',
-        previewUrl: "https://github.com/YuBaichuan2000/workout-tracker"
+        previewUrl: "https://workout-tracker-frontend-1gjy.onrender.com/"
     },
     {
         id: 5,
