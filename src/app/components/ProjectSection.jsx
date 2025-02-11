@@ -23,15 +23,15 @@ const projectData = [
         gitUrl: 'https://github.com/YuBaichuan2000/gpt-clone',
         previewUrl: "https://gpt-clone-e01d.onrender.com/"
     },
-    {
-        id: 3,
-        title: "Service Booking Web Application",
-        description: "Full stack project using React, Node.js, Express, and MySQL.",
-        image: "/images/projects/3.png",
-        tag: ["All", "Full Stack"],
-        gitUrl: 'https://github.com/YuBaichuan2000/SSEProject',
-        // previewUrl: "https://github.com/YuBaichuan2000/SSEProject"
-    },
+    // {
+    //     id: 3,
+    //     title: "Service Booking Web Application",
+    //     description: "Full stack project using React, Node.js, Express, and MySQL.",
+    //     image: "/images/projects/3.png",
+    //     tag: ["All", "Full Stack"],
+    //     gitUrl: 'https://github.com/YuBaichuan2000/SSEProject',
+    //     // previewUrl: "https://github.com/YuBaichuan2000/SSEProject"
+    // },
     {
         id: 4,
         title: "Exercise Tracker",
