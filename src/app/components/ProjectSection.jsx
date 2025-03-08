@@ -43,6 +43,15 @@ const projectData = [
     },
     {
         id: 5,
+        title: "Scalable E-Commerce Platform(Under Development)",
+        description: "Full stack project using React, Node.js, Express, MongoDB, Stripe, Redis and Cloudinary.",
+        image: "/images/projects/5.png",
+        tag: ["All", "Full Stack"],
+        gitUrl: 'https://github.com/YuBaichuan2000/e-commerce',
+        // previewUrl: "https://workout-tracker-frontend-1gjy.onrender.com/"
+    },
+    {
+        id: 6,
         title: "Cattle Disease Classifier",
         description: "Machine learning project using PyTorch and Image Classification.",
         // image: "/images/projects/5.png",
@@ -51,7 +60,7 @@ const projectData = [
         // previewUrl: "https://github.com/YuBaichuan2000/cattle-disease-cv"
     },
     {
-        id: 6,
+        id: 7,
         title: "Merchant Ranking System",
         description: "Machine learning project using PySpark and Big Data Analysis.",
         // image: "/images/projects/6.png",
